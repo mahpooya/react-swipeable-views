@@ -2,10 +2,10 @@
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/oliviertassinari/react-swipeable-views):
+Download the example [or clone the repo](https://github.com/mahpooya/react-swipeable-views):
 
 ```bash
-curl https://codeload.github.com/oliviertassinari/react-swipeable-views/tar.gz/v1-beta | tar -xz --strip=2 react-swipeable-views-master/examples/create-react-app
+curl https://codeload.github.com/mahpooya/react-swipeable-views/tar.gz/v1-beta | tar -xz --strip=2 react-swipeable-views-master/examples/create-react-app
 cd create-react-app
 ```
 

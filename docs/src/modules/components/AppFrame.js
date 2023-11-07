@@ -124,7 +124,7 @@ class AppFrame extends React.Component {
               <IconButton
                 component="a"
                 color="inherit"
-                href="https://github.com/oliviertassinari/react-swipeable-views"
+                href="https://github.com/mahpooya/react-swipeable-views"
                 aria-label="GitHub repository"
               >
                 <GithubIcon />

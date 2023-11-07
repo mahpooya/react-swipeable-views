@@ -1,14 +1,14 @@
 {
-  "name": "react-swipeable-views",
-  "version": "0.14.0",
-  "description": "A React component for swipeable views",
+  "name": "@mahpooya/react-swipeable-views",
+  "version": "0.14.0.1",
+  "description": "A React component for swipeable views (Fork from oliviertassinari react-18-fix for update dependencies)",
   "main": "lib/index.js",
   "scripts": {
     "prepublish": "pkgfiles"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oliviertassinari/react-swipeable-views.git"
+    "url": "https://github.com/mahpooya/react-swipeable-views.git"
   },
   "keywords": [
     "react",
@@ -17,18 +17,22 @@
     "swipeable"
   ],
   "author": "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)",
+  "contributors": [{
+    "name": "Mahpooya Damavand",
+    "email": "mahpooya@gmail.com"
+  }],
   "bugs": {
     "url": "https://github.com/oliviertassinari/react-swipeable-views/issues"
   },
   "dependencies": {
-    "@babel/runtime": "7.0.0",
-    "prop-types": "^15.5.4",
-    "react-swipeable-views-core": "^0.14.0",
-    "react-swipeable-views-utils": "^0.14.0",
-    "warning": "^4.0.1"
+    "@babel/runtime": "7.23.2",
+    "prop-types": "^15.8.1",
+    "react-swipeable-views-core": "npm:@mahpooya/react-swipeable-views-core@0.14.0.1",
+    "react-swipeable-views-utils": "npm:@mahpooya/react-swipeable-views-utils@0.14.0.1",
+    "warning": "^4.0.3"
   },
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0 || ^17.0.0"
+    "react": "^15.3.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "pkgfiles": "^2.3.2"

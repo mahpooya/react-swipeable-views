@@ -1,11 +1,11 @@
-# react-swipeable-views
+# @mahpooya/react-swipeable-views
 
 > A React component for swipeable views.
 
-| Package | Version | Download | Size (kB gzipped) |
-|---------|:--------|:---------|:------------------|
-| react-swipeable-views | [![npm version](https://img.shields.io/npm/v/react-swipeable-views.svg)](https://www.npmjs.com/package/react-swipeable-views) | [![npm downloads](https://img.shields.io/npm/dm/react-swipeable-views.svg)](https://www.npmjs.com/package/react-swipeable-views) | 5.08 |
-| react-swipeable-views-utils | [![npm version](https://img.shields.io/npm/v/react-swipeable-views-utils.svg)](https://www.npmjs.com/package/react-swipeable-views-utils) | [![npm downloads](https://img.shields.io/npm/dm/react-swipeable-views-utils.svg)](https://www.npmjs.com/package/react-swipeable-views-utils) | 3.52 |
+| Package                                | Version | Download | Size (kB gzipped) |
+|----------------------------------------|:--------|:---------|:------------------|
+| react-swipeable-views        | [![npm version](https://img.shields.io/npm/v/react-swipeable-views.svg)](https://www.npmjs.com/package/react-swipeable-views) | [![npm downloads](https://img.shields.io/npm/dm/react-swipeable-views.svg)](https://www.npmjs.com/package/react-swipeable-views) | 5.08 |
+| react-swipeable-views-utils  | [![npm version](https://img.shields.io/npm/v/react-swipeable-views-utils.svg)](https://www.npmjs.com/package/react-swipeable-views-utils) | [![npm downloads](https://img.shields.io/npm/dm/react-swipeable-views-utils.svg)](https://www.npmjs.com/package/react-swipeable-views-utils) | 3.52 |
 | react-swipeable-views-native | [![npm version](https://img.shields.io/npm/v/react-swipeable-views-native.svg)](https://www.npmjs.com/package/react-swipeable-views-native) | [![npm downloads](https://img.shields.io/npm/dm/react-swipeable-views-native.svg)](https://www.npmjs.com/package/react-swipeable-views-native) | ? |
 
 [![Build Status](https://travis-ci.org/oliviertassinari/react-swipeable-views.svg?branch=master)](https://travis-ci.org/oliviertassinari/react-swipeable-views)
@@ -32,13 +32,13 @@
 ### Browser
 
 ```sh
-npm install --save react-swipeable-views
+npm install --save "@mahpooya/react-swipeable-views"
 ```
 
 ### Native (experimental)
 
 ```sh
-npm install --save react-swipeable-views-native
+npm install --save "@mahpooya/react-swipeable-views-native"
 ```
 
 ## The problem solved
@@ -155,7 +155,7 @@ const MyComponent = () => (
 export default MyComponent;
 ```
 
-## Who's using react-swipeable-views?
+## Who's using @mahpooya/react-swipeable-views?
 
 - [Doctolib](https://github.com/doctolib)
 - [mastodon](https://github.com/tootsuite/mastodon)
@@ -167,4 +167,4 @@ export default MyComponent;
 ## License
 
 This project is licensed under the terms of the
-[MIT license](https://github.com/oliviertassinari/react-swipeable-views/blob/master/LICENSE).
+[MIT license](https://github.com/mahpooya//react-swipeable-views/blob/master/LICENSE).

@@ -1,4 +1,4 @@
-# react-swipeable-views-native
+# @mahpooya/react-swipeable-views-native
 
 [![npm version](https://img.shields.io/npm/v/react-swipeable-views-native.svg)](https://www.npmjs.com/package/react-swipeable-views-native)
 [![npm downloads](https://img.shields.io/npm/dm/react-swipeable-views-native.svg)](https://www.npmjs.com/package/react-swipeable-views-native)
@@ -10,9 +10,9 @@
 ## Installation
 
 ```sh
-npm install --save react-swipeable-views-native
+npm install --save @mahpooya/react-swipeable-views-native
 # or
-yarn add react-swipeable-views-native
+yarn add @mahpooya/react-swipeable-views-native
 ```
 
 ## Usage
@@ -79,4 +79,4 @@ export default MyComponent;
 ## License
 
 This project is licensed under the terms of the
-[MIT license](https://github.com/oliviertassinari/react-swipeable-views/blob/master/LICENSE).
+[MIT license](https://github.com/mahpooya/react-swipeable-views/blob/master/LICENSE).
