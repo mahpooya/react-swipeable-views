@@ -1,6 +1,6 @@
 {
   "name": "@mahpooya/react-swipeable-views-core",
-  "version": "0.14.0.1",
+  "version": "0.14.1",
   "description": "react-swipeable-views core modules (Fork from oliviertassinari react-18-fix for update dependencies)",
   "main": "lib/index.js",
   "scripts": {
