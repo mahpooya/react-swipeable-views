@@ -25,7 +25,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mahpooya/react-swipeable-views.git"
+    "url": "git+https://github.com/mahpooya/react-swipeable-views.git"
   },
   "devDependencies": {
     "@babel/cli": "7.23.0",
@@ -93,5 +93,20 @@
   },
   "workspaces": [
     "packages/*"
+  ],
+  "description": "> A React component for swipeable views.",
+  "bugs": {
+    "url": "https://github.com/mahpooya/react-swipeable-views/issues"
+  },
+  "homepage": "https://github.com/mahpooya/react-swipeable-views#readme",
+  "main": ".eslintrc.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "test"
+  },
+  "keywords": [
+    "react-swipeable-views-workspace",
+    "@mahpooya/react-swipeable-views-workspace"
   ]
 }
