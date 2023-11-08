@@ -1,6 +1,6 @@
 {
   "name": "@mahpooya/react-swipeable-views-core",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "description": "react-swipeable-views core modules (Fork from oliviertassinari react-18-fix for update dependencies)",
   "main": "lib/index.js",
   "scripts": {
@@ -8,13 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mahpooya/react-swipeable-views.git"
+    "url": "git+https://github.com/mahpooya/react-swipeable-views.git"
   },
   "author": "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)",
-  "contributors": [{
-    "name": "Mahpooya Damavand",
-    "email": "mahpooya@gmail.com"
-  }],
+  "contributors": [
+    "Mahpooya Damavand <mahpooya@gmail.com>"
+  ],
   "bugs": {
     "url": "https://github.com/oliviertassinari/react-swipeable-views/issues"
   },
@@ -31,5 +30,10 @@
   "license": "MIT",
   "engines": {
     "node": ">=6.0.0"
-  }
+  },
+  "homepage": "https://github.com/mahpooya/react-swipeable-views#readme",
+  "keywords": [
+    "react-swipeable-views-core",
+    "@mahpooya/react-swipeable-views-core"
+  ]
 }

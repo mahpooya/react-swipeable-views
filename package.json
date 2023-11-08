@@ -1,6 +1,6 @@
 {
   "name": "@mahpooya/react-swipeable-views-workspace",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "scripts": {
     "lint": "eslint . && echo \"eslint: no lint errors\"",
     "test": "echo \"ok\"",
